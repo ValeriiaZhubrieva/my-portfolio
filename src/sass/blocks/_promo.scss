@@ -27,6 +27,8 @@
         &:hover{
             text-decoration: none;
             color: $text-color;
+            transform: scale(1.2);
+            transition: all .6s;
         }
     }
     
